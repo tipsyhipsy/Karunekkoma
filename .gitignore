@@ -64,5 +64,3 @@ config/environments/*.local.yml
 
 # Ignore public uploads
 /public/uploads
-
-/docs/*
