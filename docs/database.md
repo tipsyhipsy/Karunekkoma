@@ -1,4 +1,4 @@
-📊 BabyLog MVP - ER図（初期版）
+📊  Karunekkoma- ER図（初期版）
 
 [children]
 ├─ id (PK)
