@@ -13,7 +13,9 @@
 
 - [ ] GitHubリポジトリ2つ作成（frontend / backend）
 - [ ] Dockerで開発環境構築（バックエンド側）
-- [ ] Nuxt 3 プロジェクト作成（TypeScript / Pinia / Tailwind導入）
+- [x] Nuxt 3 プロジェクト作成（TypeScript / Pinia / Tailwind導入）
+- [x] better-sqlite3を一時的にインストール（Railsセットアップ時に削除予定）
+- [x] Piniaのセットアップ
 
 ---
 
